@@ -1,6 +1,6 @@
 # task7
 
-Decor Store – Products Page
+# Decor Store – Products Page
 A fully responsive products page built using HTML, CSS, and JavaScript. This section showcases product cards across categories, with clean layouts and a grid structure. Each product card includes an image, name, description, and price. Users can search, filter by category, and sort by price for a better shopping experience.
 
 ---
