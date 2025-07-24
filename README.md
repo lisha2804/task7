@@ -7,7 +7,7 @@ A fully responsive products page built using HTML, CSS, and JavaScript. This sec
 
 # Live Demo
 
-[ View Live]()
+[ View Live](https://lisha2804.github.io/task7/)
 
 ---
 
